@@ -1,4 +1,4 @@
-![Static Badge](https://img.shields.io/badge/Grupo%20FAM-Briefing%20Resgatinhos-%239377be) ![GitHub License](https://img.shields.io/github/license/arielspencer/briefing-resgatinhos)
+![Static Badge](https://img.shields.io/badge/Grupo%20FAM-Briefing%20Resgatinhos-%239377be) ![GitHub License](https://shields.io/github/license/arielspencer/briefing-resgatinhos)
 
 <br/><br/>
 <p align="center">
