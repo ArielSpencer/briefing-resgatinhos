@@ -98,10 +98,6 @@ textarea {
   margin-top: 20px;
 }
 
-.container_form-success {
-  display: none;
-}
-
 .form_btn {
   background-color: var(--primary-color);
   padding: 10px 20px;
